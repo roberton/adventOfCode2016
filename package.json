@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode2016",
+  "version": "1.0.0",
+  "description": "Helping Santa for 2016!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "santa",
+    "easter",
+    "bunny",
+    "ramda"
+  ],
+  "author": "Roberto Nerici",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.22.1"
+  }
+}
